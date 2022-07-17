@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
-#EXTINF:-1 group-title="SUN_BANGLA" tvg-logo="https://images.app.goo.gl/1aPAnmjgquQEAW8H7", TATA-PLAY [IN]
+#EXTINF:-1 group-title="SUN_BANGLA" tvg-logo="https://ibb.co/hMfrV6z", TATA-PLAY [IN]
 http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF:-1 group-title="SUN_BANGLA" tvg-logo="https://images.app.goo.gl/1aPAnmjgquQEAW8H7", SUN-DIRECT1 [IN]
 http://103.55.144.46:80/hls/sunbangla.m3u8
