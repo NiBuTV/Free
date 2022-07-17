@@ -1,0 +1,20 @@
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+
+#EXTINF:-1 group-title="SUN_BANGLA" tvg-logo="https://images.app.goo.gl/1aPAnmjgquQEAW8H7", TATA-PLAY [IN]
+http://208.86.19.13:81/903.stream/index.m3u8
+#EXTINF:-1 group-title="SUN_BANGLA" tvg-logo="https://images.app.goo.gl/1aPAnmjgquQEAW8H7", SUN-DIRECT1 [IN]
+http://103.55.144.46:80/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="SUN_BANGLA" tvg-logo="https://images.app.goo.gl/1aPAnmjgquQEAW8H7",SUN-DIRECT2[IN]
+http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="SUN_BANGLA" tvg-logo="https://images.app.goo.gl/1aPAnmjgquQEAW8H7", SUN-NXT [IN]
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ZEE_BANGLA" tvg-logo="https://i.imgur.com/fLLse5Q.jpg",Zee Bangla HD [IN]
+http://103.55.144.46:80/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="ZEE_BANGLA" tvg-logo="https://i.imgur.com/GOamt6U.jpg",Zee Bangla
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Bangla&q=800&e=.m3u8
+#EXTINF:-1 group-title="ZEE_BANGLA" tvg-logo="https://i.imgur.com/GOamt6U.jpg",Zee Bangla
+http://208.86.19.13:81/906.stream/index.m3u8
+#EXTINF:-1 group-title="STAR_JALSHA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star_Jalsha HD [IN]
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="STAR_JALSHA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star_Jalsha HD [IN]
+http://103.55.144.46:80/hls/starjalsha.m3u8
